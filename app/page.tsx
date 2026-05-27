@@ -66,7 +66,7 @@ export default function AraguaIALandingPage() {
           </div>
 
           <div className="rounded-3xl border border-white/10 bg-white/5 backdrop-blur-md p-6 text-left shadow-2xl">
-            <div className="text-sm text-green-400 mb-3">Data</div>
+            <div className="text-sm text-green-400 mb-3">Dados</div>
             <h3 className="text-xl font-medium">Monitoramento Ambiental</h3>
             <p className="mt-3 text-zinc-400 leading-relaxed">
               Informações ambientais acessíveis para empresas, instituições e
